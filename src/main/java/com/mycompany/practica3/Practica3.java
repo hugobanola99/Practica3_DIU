@@ -98,7 +98,7 @@ public class Practica3 extends javax.swing.JFrame {
         jTextArea1.setRows(10);
         jScrollPane1.setViewportView(jTextArea1);
 
-        barraDeslizante.setToolTipText("Valor de la temperatura");
+        barraDeslizante.setToolTipText("Valores de la matriz");
         barraDeslizante.addChangeListener(new javax.swing.event.ChangeListener() {
             public void stateChanged(javax.swing.event.ChangeEvent evt) {
                 barraDeslizanteStateChanged(evt);

@@ -191,7 +191,7 @@
             </Container>
             <Component class="javax.swing.JSlider" name="barraDeslizante">
               <Properties>
-                <Property name="toolTipText" type="java.lang.String" value="Valor de la temperatura"/>
+                <Property name="toolTipText" type="java.lang.String" value="Valores de la matriz"/>
               </Properties>
               <Events>
                 <EventHandler event="stateChanged" listener="javax.swing.event.ChangeListener" parameters="javax.swing.event.ChangeEvent" handler="barraDeslizanteStateChanged"/>
